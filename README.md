@@ -38,6 +38,6 @@ The dasboard result:
 
 Full Interactive Dashboard : [Dashboard](https://app.powerbi.com/reportEmbed?reportId=9e7ea17a-75ef-4cb1-ac9f-5f45f5336a60&autoAuth=true&ctid=fedd5298-8e66-45f1-b321-fd38ad0ff722&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWVhc3QtYXNpYS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)
 
-[See All Files](https://github.com/raihanfirdausx/Global-Superstore)
+[See All Files](https://github.com/mzfuadi97/Global-Superstore)
 
-[<--See other projects](https://raihanfirdausx.github.io/#[object%20Object])
+[<--See other projects](https://mzfuadi97.github.io/#[object%20Object])
