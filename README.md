@@ -28,15 +28,15 @@ The data involved for the input to Power BI can be seen as below:
 The dasboard result:
 
 *Sales by Revenue
-![](/images/sales_rev.jpeg)
+![](/images/sales_rev.png)
 
 *Sales by Quantity
-![](/images/sales_qty.jpeg)
+![](/images/sales_qty.png)
 
 *Additional Info
-![](/images/addition.jpeg)
+![](/images/addition.png)
 
-Full Interactive Dashboard : [Dashboard](https://app.powerbi.com/reportEmbed?reportId=9e7ea17a-75ef-4cb1-ac9f-5f45f5336a60&autoAuth=true&ctid=fedd5298-8e66-45f1-b321-fd38ad0ff722&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWVhc3QtYXNpYS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)
+Full Interactive Dashboard : [Dashboard](https://lookerstudio.google.com/reporting/e719ec72-ea9d-4b78-b2ea-810fa6f4cd55)
 
 [See All Files](https://github.com/mzfuadi97/Global-Superstore-Sales.git)
 
