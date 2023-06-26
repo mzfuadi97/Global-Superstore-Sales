@@ -28,13 +28,13 @@ The data involved for the input to Power BI can be seen as below:
 The dasboard result:
 
 *Sales by Revenue
-![](/images/sales_rev.png)
+![](/images/sales_rev.jpg)
 
 *Sales by Quantity
-![](/images/sales_qty.png)
+![](/images/sales_qty.jpg)
 
 *Additional Info
-![](/images/addition.png)
+![](/images/addition.jpg)
 
 Full Interactive Dashboard : [Dashboard](https://lookerstudio.google.com/reporting/e719ec72-ea9d-4b78-b2ea-810fa6f4cd55)
 
